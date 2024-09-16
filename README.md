@@ -9,8 +9,8 @@ El cliente tiene una barra de búsqueda donde ingresa el nombre de un anime y es
 El servidor, creado con express hace las peticiones a las APis y envía las 2 respuestas al cliente.
 
 # APIs
-- 
-- 
+- [Jikan API](https://jikan.moe/)
+- [Watchmode](https://rapidapi.com/meteoric-llc-meteoric-llc-default/api/watchmode)
 
 # Instalación
 
