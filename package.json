@@ -1,0 +1,18 @@
+{
+  "name": "api-consumption",
+  "version": "1.0.0",
+  "description": "API external consumption project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "author": "Andres_Maldonado",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "string-similarity": "^4.0.4"
+  }
+}
